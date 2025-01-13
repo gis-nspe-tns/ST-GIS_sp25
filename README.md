@@ -1,1 +1,1 @@
-## Course repository for Course repository for UENV3200 + UURB3210 | CRN: 11008 + 11009 | The New School, NYC - Spring 2025 © 2025 by Stephen Metts is licensed under CC BY-NC-SA 4.0 
+## Course repository for UENV3200 (CRN: 11009) + UURB3210 (CRN: 11008) | The New School, NYC - Spring 2025 © 2025 by Stephen Metts is licensed under CC BY-NC-SA 4.0 
