@@ -1,0 +1,438 @@
+---
+title: "Class 9 - Lecture"
+subtitle: "The Mapping Vulnerability Model & Spatial Statistics"
+format:
+  revealjs: 
+    slide-number: true
+    theme: [index_files/custom.scss]
+    touch: true
+    incremental: true   
+resources:
+  - demo.pdf
+---
+
+## Mapping Vulnerability Model
+
+![](index_files/img/header.png){.absolute top="220" left="70" width="1000"}
+
+::: footer
+Source:[Mapping Vulnerability](https://www.researchgate.net/figure/Examples-of-vulnerability-maps-at-different-scales-and-for-different-purposes_fig1_334464480)
+:::
+
+## Mapping Vulnerability Model
+
+### Example I: Covid Cases Prevalence + Sex/Age
+
+![](index_files/img/covid-1.png){.absolute top="220" left="80" width="900"}
+
+::: footer
+Source:[Covid-19 Stats](https://usafacts.org/?utm_source=google&utm_medium=cpc&utm_campaign=ND-Branded&gclid=CjwKCAjwoIqhBhAGEiwArXT7K5dvJamCT08ENvKpFSx3HzrRLJWZI3CNSjlJwAVIt7E1BDOkceTbihoCNHwQAvD_BwE)
+:::
+
+## Mapping Vulnerability Model
+
+### Example I: Covid Cases Prevalence + Sex/Age
+
+![](index_files/img/covid-2.png){.absolute top="220" left="80" width="900"}
+
+::: footer
+Source:[Covid-19 Stats](https://usafacts.org/?utm_source=google&utm_medium=cpc&utm_campaign=ND-Branded&gclid=CjwKCAjwoIqhBhAGEiwArXT7K5dvJamCT08ENvKpFSx3HzrRLJWZI3CNSjlJwAVIt7E1BDOkceTbihoCNHwQAvD_BwE)
+:::
+
+## Mapping Vulnerability Model
+
+### Example II: Rolling Fork-Silver City Tornado
+
+![](index_files/img/tornado-7.png){.absolute top="200" left="80" width="900"}
+
+::: footer
+Source:[National Weather Service Raw Text Product](https://mesonet.agron.iastate.edu/wx/afos/p.php?pil=PNSJAN&e=202303280208)
+:::
+
+## Mapping Vulnerability Model
+
+### Example II: Rolling Fork-Silver City Tornado
+
+![](index_files/img/tornado-1.png){.absolute top="160" left="280" width="500"}
+
+::: footer
+Source:[Axios](https://www.axios.com/2023/03/26/rolling-fork-tornado-damage-mississippi-photos)
+:::
+
+## Mapping Vulnerability Model
+
+### Example II: Rolling Fork-Silver City Tornado
+
+![](index_files/img/tornado-2.png){.absolute top="160" left="280" width="500"}
+
+::: footer
+Source:[Axios](https://www.axios.com/2023/03/26/rolling-fork-tornado-damage-mississippi-photos)
+:::
+
+## Mapping Vulnerability Model
+
+### Example II: Rolling Fork-Silver City Tornado
+
+![](index_files/img/mobile.home.png){.absolute top="220" left="180" width="700"}
+
+::: footer
+Source:[Axios](https://www.axios.com/2023/03/26/rolling-fork-tornado-damage-mississippi-photos)
+:::
+
+## Mapping Vulnerability Model
+
+### Example II: Rolling Fork-Silver City Tornado
+
+![](index_files/img/mobile.home-2.png){.absolute top="220" left="180" width="700"}
+
+::: footer
+Source:[Axios](https://www.axios.com/2023/03/26/rolling-fork-tornado-damage-mississippi-photos)
+:::
+
+
+## Mapping Vulnerability Model
+
+### Example II: Rolling Fork-Silver City Tornado
+
+![](index_files/img/mobile-home-4.png){.absolute top="220" left="230" width="600"}
+
+::: footer
+Source:[Googgle Maps](https://www.google.com/maps)
+:::
+
+## Mapping Vulnerability Model
+
+### Example II: Rolling Fork-Silver City Tornado
+
+![](index_files/img/mobile-home-3.png){.absolute top="220" left="180" width="700"}
+
+::: footer
+Source:[Washington Post](https://www.washingtonpost.com/photography/interactive/2023/photos-scene-after-tornadoes-rip-through-mississippi-alabama/?itid=lk_interstitial_manual_12)
+:::
+
+## Mapping Vulnerability Model
+
+### Example II: Rolling Fork-Silver City Tornado
+
+![](index_files/img/tornado-6.png){.absolute top="180" left="180" width="700"}
+
+::: footer
+Source:[Washington Post](https://www.washingtonpost.com/weather/2023/03/26/why-mississippi-tornado-size-was-rare/)
+:::
+
+
+## Mapping Vulnerability Model
+
+### Risk Equation - Standard
+
+![](index_files/img/RE_1.png){.absolute top="240" left="120" width="800"}
+
+::: footer
+Source:[Risk Equation](https://eei.fiu.edu/equation/the-equation/)
+:::
+
+
+## Mapping Vulnerability Model
+
+### Risk Equation - Triangle
+
+![](index_files/img/RE_2.png){.absolute top="140" left="120" width="800"}
+
+::: footer
+Source:[Risk Triangle](http://www.wamis.org/agm/meetings/slovenia10/S5-2a_GRIP_Understanding_Risk.pdf)
+:::
+
+
+## Mapping Vulnerability Model
+
+### Risk Equation - Matrix
+
+![](index_files/img/RE_3.png){.absolute top="280" left="280" width="500"}
+
+::: footer
+Source:[UNDRR](https://www.undrr.org/)
+:::
+
+
+## Mapping Vulnerability Model
+
+### Physical Vulnerability - Hazard x Vulnerability (*Physical* + Social) = Risk
+
+
+![](index_files/img/PV_1.gif){.absolute top="250" left="140" width="800"}
+
+
+::: footer
+Source:[Google Earth Engine](https://earthengine.google.com/timelapse/#v=38.48908,-122.69439,11.973,latLng&t=1.63)
+:::
+
+## Mapping Vulnerability Model
+
+### Physical Vulnerability - Hazard x Vulnerability (*Physical* + Social) = Risk
+
+![](index_files/img/PV_2.png){.absolute top="250" left="150" width="800"}
+
+
+::: footer
+Source:[NYT](https://nyti.ms/2kP5QYK)
+:::
+
+## Mapping Vulnerability Model
+
+### Social Vulnerability - Hazard x Vulnerability (Physical + *Social*) = Risk
+
+![](index_files/img/SV_1.png){.absolute top="290" left="120" width="900"}
+
+::: footer
+Source:[Social Vulnerability](https://en.wikipedia.org/wiki/Social_vulnerability)
+:::
+
+## Mapping Vulnerability Model
+
+### Social Vulnerability - Hazard x Vulnerability (Physical + *Social*) = Risk
+
+![](index_files/img/SV_4.png){.absolute top="240" left="130" width="750"}
+
+::: footer
+Source:[ArcGIS - Direct Relief](https://directrelief.maps.arcgis.com/apps/CompareAnalysis/index.html?appid=90beb69bb62e49979b519869f388a0b4)
+:::
+
+
+## Mapping Vulnerability Model
+
+### RISK EQUATION: Hazard x *Vulnerability (Physical + Social)* = Risk
+
+![](index_files/img/vulnerability_1.png){.absolute top="250" left="250" width="550"}
+
+::: footer
+Source:[Researchgate](https://www.researchgate.net/publication/234137119_Population_Evacuation_Assessing_Spatial_Variability_in_Geophysical_Risk_and_Social_Vulnerability_to_Natural_Hazards)
+:::
+
+
+## Mapping Vulnerability Model
+
+### RISK EQUATION: *Hazard* x Vulnerability (Physical + Social) = Risk
+
+![](index_files/img/hazard_1.png){.absolute top="250" left="220" width="650"}
+
+::: footer
+Source:[Researchgate](https://www.researchgate.net/publication/234137119_Population_Evacuation_Assessing_Spatial_Variability_in_Geophysical_Risk_and_Social_Vulnerability_to_Natural_Hazards)
+:::
+
+## Mapping Vulnerability Model
+
+### National Hazard Examples
+
+![](index_files/img/hazard_2.png){.absolute top="150" left="200" width="600"}
+
+::: footer
+Source:[FEMA](https://www.fema.gov/sites/default/files/documents/fema_national-risk-index_technical-documentation.pdf)
+:::
+
+## Mapping Vulnerability Model
+
+### RISK EQUATION: Hazard x Vulnerability (Physical + Social) = *Risk*
+
+![](index_files/img/risk_1.png){.absolute top="250" left="220" width="650"}
+
+::: footer
+Source:[FEMA](https://www.fema.gov/)
+:::
+
+## Mapping Vulnerability Model
+
+### RISK EQUATION: Hazard x Vulnerability (Physical + Social) = *Risk*
+
+![](index_files/img/risk_2.png){.absolute top="230" left="220" width="600"}
+
+::: footer
+Source:[NPR](https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most)
+:::
+
+## Mapping Vulnerability Model
+
+### Early Questions for a Vulnerability Project
+
+::: {.incremental}
+- What is the most appropriate map scale for the data?
+- Who/What is vulnerable?
+- How is the vulnerability measured?
+- What is the Hazard?
+- How is the Hazard measured?
+::: 
+
+::: footer
+Source:[Multi-Layer Raster Analysis - Methods](https://desktop.arcgis.com/en/arcmap/latest/tools/spatial-analyst-toolbox/an-overview-of-the-math-logical-tools.htm)
+:::
+
+## Mapping Vulnerability Model
+
+### Example of aggregation deficiency in a vulnerability model
+
+![](index_files/img/aggregation.1.png){.absolute top="300" left="70" width="1000"}
+
+::: footer
+Source:[Linda Stephen](https://www.taylorfrancis.com/chapters/edit/10.4324/9781849771924-15/vulnerable-regions-versus-vulnerable-people-ethiopian-case-study-linda-stephen)
+:::
+
+## Mapping Vulnerability Model
+
+### Example of aggregation deficiency in a vulnerability model
+
+![](index_files/img/aggregation.2.png){.absolute top="220" left="170" width="700"}
+
+::: footer
+Source:[FEMA](https://www.fema.gov/sites/default/files/documents/fema_national-risk-index_technical-documentation.pdf)
+:::
+
+## Spatial Statistics I
+
+### Scales of Measurement
+
+![](index_files/img/scales.1.png){.absolute top="220" left="160" width="700"}
+
+::: footer
+Source:[Types of Data](https://studyonline.unsw.edu.au/blog/types-of-data)
+:::
+
+## Spatial Statistics I
+
+### Scales of Measurement
+
+![](index_files/img/scales.2.png){.absolute top="220" left="160" width="700"}
+
+::: footer
+Source:[Types of Data](https://studyonline.unsw.edu.au/blog/types-of-data)
+:::
+
+## Spatial Statistics I
+
+### Measurement I
+
+#### Ratings
+
+For every score there can be a qualitative rating that describes the position of an entity relative to the whole. For example, rating a state, county or census tract from “Very Low” to “Very High.” To do this rating, k-means clustering or natural breaks can be applied to each score.
+
+![](index_files/img/measurement.1.png){.absolute top="440" left="640" width="400"}
+
+::: footer
+Source:[Data Standardizing](https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff)
+:::
+
+## Spatial Statistics I
+
+### Measurement II
+
+#### Ranking based on Threshold Conditions
+
+![](index_files/img/scoring.png){.absolute top="230" left="240" width="650"}
+
+## Spatial Statistics I
+
+### Measurement III
+
+#### Ranking based on Percentile 
+
+![](index_files/img/scoring.2.png){.absolute top="300" left="140" width="850"}
+
+::: footer
+Source:[DAC Technical Documentation](https://climate.ny.gov/-/media/project/climate/files/Technical-Documentation-on-Disadvantaged-Community-Criteria.pdf)
+:::
+
+## Spatial Statistics I
+
+### Data Normalization
+
+>The purpose of normalization is to transform data in a way that they are either dimensionless and/or have similar distributions. This process of normalization is known by other names such as standardization, feature scaling etc. Normalization is an essential step in data pre-processing in any machine learning application and model fitting.
+
+::: footer
+Source:[Data Normalization](https://towardsdatascience.com/data-normalization-in-machine-learning-395fdec69d02)
+:::
+
+## Spatial Statistics I
+
+### Data Preparation: Data Normalization - Technique I
+
+#### Rescaling - Multiplying each member of a data set by a constant term k. The range of the data changes.
+
+![](index_files/img/scales.3.png){.absolute top="330" left="310" width="500"}
+
+::: footer
+Source:[Data Normalization](https://www.kaggle.com/rtatman/data-cleaning-challenge-scale-and-normalize-data)
+:::
+
+## Spatial Statistics I
+
+### Data Preparation: Data Normalization - Technique II
+
+#### Normalizing - Values set to common scale, without distorting differences in range of values. Shape of the distribution of the data changes.
+
+![](index_files/img/scales.4.png){.absolute top="330" left="310" width="500"}
+
+::: footer
+Source:[Data Normalization](https://www.kaggle.com/rtatman/data-cleaning-challenge-scale-and-normalize-data)
+:::
+
+## Spatial Statistics I
+
+### Data Preparation: Data Normalization - Technique III
+
+#### Standardizing - Z-score standardization is a procedure to “standardize” data to have mean = 0 and standard deviation = 1.
+
+![](index_files/img/scales.5.png){.absolute top="380" left="170" width="800"}
+
+::: footer
+Source:[Data Standardizing](https://towardsai.net/p/data-science/how-when-and-why-should-you-normalize-standardize-rescale-your-data-3f083def38ff)
+:::
+
+## Spatial Statistics II
+
+
+>Spatial statistics differ from traditional statistics in that spatial statistics integrate space and spatial relationships in the analysis. Spatial statistics can be used with continuous data as well as three different types of object data: points, lines, and areas (Bailey and Gatrell 1995).
+
+
+::: footer
+Source:[Spatial Statistics Short Definition](https://link.springer.com/referenceworkentry/10.1007/978-3-319-17885-1_1351#:~:text=Spatial%20statistics%20differ%20from%20traditional,(Bailey%20and%20Gatrell%201995).)
+:::
+
+## Spatial Statistics II
+
+### Spatial Autocorrelation
+
+>Most statistical methods are based on certain assumptions such as that the samples are independent of each other. Geographic phenomena, however, are all related to each other as Waldo R. Tobler’s First Law of Geography states: "Everything is related to everything else, but near things are more related than distant things."
+
+
+::: footer
+Source:[First Law of Geography](https://en.wikipedia.org/wiki/Tobler%27s_first_law_of_geography)
+:::
+
+
+## Spatial Statistics II
+
+### Spatial Autocorrelation
+
+![](index_files/img/global_spatial_autocorrelation.png){.absolute top="190" left="180" width="700"}
+
+::: footer
+Source:[Spatial Autocorrelation](http://www.geo.hunter.cuny.edu/~ssun/R-Spatial/spregression.html)
+:::
+
+
+## Spatial Statistics II
+
+### Spatial Autocorrelation
+
+![](index_files/img/sa.png){.absolute top="250" left="120" width="800"}
+
+::: footer
+Source:[Spatial Autocorrelation](https://www.cambridge.org/core/books/abs/spatial-analysis-methods-and-practice/spatial-autocorrelation/F6A01B574C69076F28318445C33397E4)
+:::
+
+
+
+
+
+
+
+
+
